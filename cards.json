@@ -1,0 +1,716 @@
+[
+  {
+    "id": 1,
+    "name": "Lobomonas",
+    "description": "Chlorophyta, monadoidní",
+    "image": "images/001.webp"
+  },
+  {
+    "id": 2,
+    "name": "Carteria",
+    "description": "Chlorophyta, monadoidní",
+    "image": "images/002.webp"
+  },
+  {
+    "id": 3,
+    "name": "Eudorina",
+    "description": "Chlorophyta, monadoidní (cenobium)",
+    "image": "images/003.webp"
+  },
+  {
+    "id": 4,
+    "name": "Chlamydomonas",
+    "description": "Chlorophyta, monadoidní",
+    "image": "images/004.webp"
+  },
+  {
+    "id": 5,
+    "name": "Pediastrum",
+    "description": "Chlorophyta, kokální (cenobium)",
+    "image": "images/005.webp"
+  },
+  {
+    "id": 6,
+    "name": "Volvox",
+    "description": "Chlorophyta, monadoidní (cenobium)",
+    "image": "images/006.webp"
+  },
+  {
+    "id": 7,
+    "name": "Oocystis",
+    "description": "Chlorophyta, kokální",
+    "image": "images/007.webp"
+  },
+  {
+    "id": 8,
+    "name": "Scenedesmus",
+    "description": "Chlorophyta, kokální (cenobium)",
+    "image": "images/008.webp"
+  },
+  {
+    "id": 9,
+    "name": "Dictyosphaerium",
+    "description": "Chlorophyta, kokální (kolonie)",
+    "image": "images/009.webp"
+  },
+  {
+    "id": 10,
+    "name": "Coelastrum",
+    "description": "Chlorophyta, kokální (cenobium)",
+    "image": "images/010.webp"
+  },
+  {
+    "id": 11,
+    "name": "Cladophora",
+    "description": "Chlorophyta, sifonokladální",
+    "image": "images/011.webp"
+  },
+  {
+    "id": 12,
+    "name": "Chlorella",
+    "description": "Chlorophyta, kokální",
+    "image": "images/012.webp"
+  },
+  {
+    "id": 13,
+    "name": "Spirogyra",
+    "description": "Charophyta, Zygnematophyceae, vláknitá",
+    "image": "images/013.webp"
+  },
+  {
+    "id": 14,
+    "name": "Oedogonium",
+    "description": "Chlorophyta, vláknitá",
+    "image": "images/014.webp"
+  },
+  {
+    "id": 15,
+    "name": "Micrasterias",
+    "description": "Charophyta, Zygnematophyceae, dvojčatkovité (krásivky), kokální",
+    "image": "images/015.webp"
+  },
+  {
+    "id": 16,
+    "name": "Zygnema",
+    "description": "Charophyta, vláknitá (žebříčková konjugace)",
+    "image": "images/016.webp"
+  },
+  {
+    "id": 17,
+    "name": "Coleochaete",
+    "description": "Charophyta, terčovitá/keříčkovitá",
+    "image": "images/017.webp"
+  },
+  {
+    "id": 18,
+    "name": "Klebsormidium",
+    "description": "Charophyta, vláknitá",
+    "image": "images/018.webp"
+  },
+  {
+    "id": 19,
+    "name": "Euglena",
+    "description": "Euglenophyta, monadoidní",
+    "image": "images/019.webp"
+  },
+  {
+    "id": 20,
+    "name": "Chara",
+    "description": "Charophyta, pletivná",
+    "image": "images/020.webp"
+  },
+  {
+    "id": 21,
+    "name": "Trachelomonas",
+    "description": "Euglenophyta, monadoidní (lorika)",
+    "image": "images/021.webp"
+  },
+  {
+    "id": 22,
+    "name": "Phacus",
+    "description": "Euglenophyta, monadoidní",
+    "image": "images/022.webp"
+  },
+  {
+    "id": 23,
+    "name": "Gracilaria",
+    "description": "pletivná stélka, Rhodophyta, G. chilensis – Chile, JV Asie, Afrika",
+    "image": "images/023.webp"
+  },
+  {
+    "id": 24,
+    "name": "Gelidium",
+    "description": "pletivná stélka, Rhodophyta, G. spinosum - SV Atlantik, Středozemní moře, Indonésie",
+    "image": "images/024.webp"
+  },
+  {
+    "id": 25,
+    "name": "Chondrus crispus",
+    "description": "pletivná stélka, Rhodophyta, Sev. Atlantik",
+    "image": "images/025.webp"
+  },
+  {
+    "id": 26,
+    "name": "Chondrus crispus",
+    "description": "pletivná stélka, Rhodophyta, Sev. Atlantik",
+    "image": "images/026.webp"
+  },
+  {
+    "id": 27,
+    "name": "Corallina officinalis",
+    "description": "pletivná stélka, Rhodophyta, kosmopolitní",
+    "image": "images/027.webp"
+  },
+  {
+    "id": 28,
+    "name": "Corallina officinalis",
+    "description": "pletivná stélka, Rhodophyta, kosmopolitní",
+    "image": "images/028.webp"
+  },
+  {
+    "id": 29,
+    "name": "Porphyra",
+    "description": "ploše listovitá stélka, Rhodophyta",
+    "image": "images/029.webp"
+  },
+  {
+    "id": 30,
+    "name": "Porphyra",
+    "description": "ploše listovitá stélka, Rhodophyta",
+    "image": "images/030.webp"
+  },
+  {
+    "id": 31,
+    "name": "Ulva",
+    "description": "ploše listovitá stélka, Chlorophyta",
+    "image": "images/031.webp"
+  },
+  {
+    "id": 32,
+    "name": "Ulva",
+    "description": "ploše listovitá stélka, Chlorophyta",
+    "image": "images/032.webp"
+  },
+  {
+    "id": 33,
+    "name": "Enteromorpha intestinalis",
+    "description": "střevovitá stélka, Chlorophyta, široce rozšířená",
+    "image": "images/033.webp"
+  },
+  {
+    "id": 34,
+    "name": "Enteromorpha intestinalis",
+    "description": "střevovitá stélka, Chlorophyta, široce rozšířená",
+    "image": "images/034.webp"
+  },
+  {
+    "id": 35,
+    "name": "Codium fragile",
+    "description": "siphonokladální stélka, Chlorophyta, hojné rozšíření",
+    "image": "images/035.webp"
+  },
+  {
+    "id": 36,
+    "name": "Bryopsis",
+    "description": "siphonokladální stélka, Chlorophyta, hojné rozšíření",
+    "image": "images/036.webp"
+  },
+  {
+    "id": 37,
+    "name": "Udotea",
+    "description": "ploše listovitá stélka, Chlorophyta",
+    "image": "images/037.webp"
+  },
+  {
+    "id": 38,
+    "name": "Halimeda",
+    "description": "ploše listovitá stélka, Chlorophyta",
+    "image": "images/038.webp"
+  },
+  {
+    "id": 39,
+    "name": "Caulerpa",
+    "description": "siphonální stélka, Chlorophyta",
+    "image": "images/039.webp"
+  },
+  {
+    "id": 40,
+    "name": "Udotea",
+    "description": "ploše listovitá stélka, Chlorophyta",
+    "image": "images/040.webp"
+  },
+  {
+    "id": 41,
+    "name": "Caulerpa",
+    "description": "siphonální stélka, Chlorophyta",
+    "image": "images/041.webp"
+  },
+  {
+    "id": 42,
+    "name": "Caulerpa",
+    "description": "siphonální stélka, Chlorophyta",
+    "image": "images/042.webp"
+  },
+  {
+    "id": 43,
+    "name": "Acetabularia",
+    "description": "siphonální stélka, Chlorophyta, hojná v teplých mořích",
+    "image": "images/043.webp"
+  },
+  {
+    "id": 44,
+    "name": "Acetabularia",
+    "description": "siphonální stélka, Chlorophyta, hojná v teplých mořích",
+    "image": "images/044.webp"
+  },
+  {
+    "id": 45,
+    "name": "Dictyota dichotoma",
+    "description": "dichotomicky větvené plochá stélka, kosmopolitní",
+    "image": "images/045.webp"
+  },
+  {
+    "id": 46,
+    "name": "Dictyota dichotoma",
+    "description": "dichotomicky větvené plochá stélka, kosmopolitní",
+    "image": "images/046.webp"
+  },
+  {
+    "id": 47,
+    "name": "Padina",
+    "description": "plochá vějířovitá stélka, teplá moře",
+    "image": "images/047.webp"
+  },
+  {
+    "id": 48,
+    "name": "Padina",
+    "description": "plochá vějířovitá stélka, teplá moře",
+    "image": "images/048.webp"
+  },
+  {
+    "id": 49,
+    "name": "Laminaria digitata",
+    "description": "pletivná stélka, Atlantik",
+    "image": "images/049.webp"
+  },
+  {
+    "id": 50,
+    "name": "Laminaria digitata",
+    "description": "pletivná stélka, Atlantik",
+    "image": "images/050.webp"
+  },
+  {
+    "id": 51,
+    "name": "Nereocystis lutkeana",
+    "description": "pletivná stélka, Tichý o.",
+    "image": "images/051.webp"
+  },
+  {
+    "id": 52,
+    "name": "Macrocystis pyrifera",
+    "description": "pletivná stélka, hojná, kosmopolitní",
+    "image": "images/052.webp"
+  },
+  {
+    "id": 53,
+    "name": "Fucus vesiculosus",
+    "description": "pletivná stélka, Atlantik, Stř. moře",
+    "image": "images/053.webp"
+  },
+  {
+    "id": 54,
+    "name": "Ascophylum nodosum",
+    "description": "pletivná stélka, Atlantik",
+    "image": "images/054.webp"
+  },
+  {
+    "id": 55,
+    "name": "Sargassum",
+    "description": "liánovitá chaluha, Sargasové m.",
+    "image": "images/055.webp"
+  },
+  {
+    "id": 56,
+    "name": "Sargassum",
+    "description": "liánovitá chaluha, Sargasové m.",
+    "image": "images/056.webp"
+  },
+  {
+    "id": 57,
+    "name": "Chroococcus",
+    "description": "Cyanophyta, kokální",
+    "image": "images/057.webp"
+  },
+  {
+    "id": 58,
+    "name": "Sargassum",
+    "description": "liánovitá chaluha, Sargasové m.",
+    "image": "images/058.webp"
+  },
+  {
+    "id": 59,
+    "name": "Chroococcus",
+    "description": "Cyanophyta, kokální",
+    "image": "images/059.webp"
+  },
+  {
+    "id": 60,
+    "name": "Chroococcus",
+    "description": "Cyanophyta, kokální",
+    "image": "images/060.webp"
+  },
+  {
+    "id": 61,
+    "name": "Snowella",
+    "description": "Cyanophyta, kokální",
+    "image": "images/061.webp"
+  },
+  {
+    "id": 62,
+    "name": "Snowella",
+    "description": "Cyanophyta, kokální",
+    "image": "images/062.webp"
+  },
+  {
+    "id": 63,
+    "name": "Microcystis",
+    "description": "Cyanophyta, kokální, plankton (vodní květ)",
+    "image": "images/063.webp"
+  },
+  {
+    "id": 64,
+    "name": "Microcystis",
+    "description": "Cyanophyta, kokální, plankton (vodní květ)",
+    "image": "images/064.webp"
+  },
+  {
+    "id": 65,
+    "name": "Microcystis",
+    "description": "Cyanophyta, kokální, plankton (vodní květ)",
+    "image": "images/065.webp"
+  },
+  {
+    "id": 66,
+    "name": "Microcystis",
+    "description": "Cyanophyta, kokální, plankton (vodní květ)",
+    "image": "images/066.webp"
+  },
+  {
+    "id": 67,
+    "name": "Woronichinia",
+    "description": "Cyanophyta, kokální",
+    "image": "images/067.webp"
+  },
+  {
+    "id": 68,
+    "name": "Microcystis",
+    "description": "Cyanophyta, kokální, plankton (vodní květ)",
+    "image": "images/068.webp"
+  },
+  {
+    "id": 69,
+    "name": "Woronichinia",
+    "description": "Cyanophyta, kokální",
+    "image": "images/069.webp"
+  },
+  {
+    "id": 70,
+    "name": "Woronichinia",
+    "description": "Cyanophyta, kokální",
+    "image": "images/070.webp"
+  },
+  {
+    "id": 71,
+    "name": "Merismopedia",
+    "description": "Cyanophyta, kokální",
+    "image": "images/071.webp"
+  },
+  {
+    "id": 72,
+    "name": "Woronichinia",
+    "description": "Cyanophyta, kokální",
+    "image": "images/072.webp"
+  },
+  {
+    "id": 73,
+    "name": "Merismopedia",
+    "description": "Cyanophyta, kokální",
+    "image": "images/073.webp"
+  },
+  {
+    "id": 74,
+    "name": "Merismopedia",
+    "description": "Cyanophyta, kokální",
+    "image": "images/074.webp"
+  },
+  {
+    "id": 75,
+    "name": "Oscillatoria",
+    "description": "Cyanophyta, vláknitá (hormogonie)",
+    "image": "images/075.webp"
+  },
+  {
+    "id": 76,
+    "name": "Merismopedia",
+    "description": "Cyanophyta, kokální",
+    "image": "images/076.webp"
+  },
+  {
+    "id": 77,
+    "name": "Planktothrix",
+    "description": "Cyanophyta, vláknitá (aerotopy), planktonní",
+    "image": "images/077.webp"
+  },
+  {
+    "id": 78,
+    "name": "Oscillatoria",
+    "description": "Cyanophyta, vláknitá (hormogonie)",
+    "image": "images/078.webp"
+  },
+  {
+    "id": 79,
+    "name": "Planktothrix",
+    "description": "Cyanophyta, vláknitá (aerotopy), planktonní",
+    "image": "images/079.webp"
+  },
+  {
+    "id": 80,
+    "name": "Planktothrix",
+    "description": "Cyanophyta, vláknitá (aerotopy), planktonní",
+    "image": "images/080.webp"
+  },
+  {
+    "id": 81,
+    "name": "Arthrospira",
+    "description": "Cyanophyta, vláknitá",
+    "image": "images/081.webp"
+  },
+  {
+    "id": 82,
+    "name": "Planktothrix",
+    "description": "Cyanophyta, vláknitá (aerotopy), planktonní",
+    "image": "images/082.webp"
+  },
+  {
+    "id": 83,
+    "name": "Anabaena",
+    "description": "Cyanophyta, vláknitá (heterocyt, akineta, aerotopy), planktonní (Dolichospermum)",
+    "image": "images/083.webp"
+  },
+  {
+    "id": 84,
+    "name": "Arthrospira",
+    "description": "Cyanophyta, vláknitá",
+    "image": "images/084.webp"
+  },
+  {
+    "id": 85,
+    "name": "Anabaena",
+    "description": "Cyanophyta, vláknitá (heterocyt, akineta, aerotopy), planktonní (Dolichospermum)",
+    "image": "images/085.webp"
+  },
+  {
+    "id": 86,
+    "name": "Anabaena",
+    "description": "Cyanophyta, vláknitá (heterocyt, akineta, aerotopy), planktonní (Dolichospermum)",
+    "image": "images/086.webp"
+  },
+  {
+    "id": 87,
+    "name": "Aphanizomenon",
+    "description": "Cyanophyta, vláknitá, planktonní",
+    "image": "images/087.webp"
+  },
+  {
+    "id": 88,
+    "name": "Anabaena",
+    "description": "Cyanophyta, vláknitá (heterocyt, akineta, aerotopy), planktonní (Dolichospermum)",
+    "image": "images/088.webp"
+  },
+  {
+    "id": 89,
+    "name": "Aphanizomenon",
+    "description": "Cyanophyta, vláknitá, planktonní",
+    "image": "images/089.webp"
+  },
+  {
+    "id": 90,
+    "name": "Aphanizomenon",
+    "description": "Cyanophyta, vláknitá, planktonní",
+    "image": "images/090.webp"
+  },
+  {
+    "id": 91,
+    "name": "Calothrix",
+    "description": "Cyanophyta, vláknitá, heteropolární (heterocyt)",
+    "image": "images/091.webp"
+  },
+  {
+    "id": 92,
+    "name": "Aphanizomenon",
+    "description": "Cyanophyta, vláknitá, planktonní",
+    "image": "images/092.webp"
+  },
+  {
+    "id": 93,
+    "name": "Nostoc",
+    "description": "Cyanophyta, vláknitá (heterocyt)",
+    "image": "images/093.webp"
+  },
+  {
+    "id": 94,
+    "name": "Calothrix",
+    "description": "Cyanophyta, vláknitá, heteropolární (heterocyt)",
+    "image": "images/094.webp"
+  },
+  {
+    "id": 95,
+    "name": "Nostoc",
+    "description": "Cyanophyta, vláknitá (heterocyt)",
+    "image": "images/095.webp"
+  },
+  {
+    "id": 96,
+    "name": "Nostoc",
+    "description": "Cyanophyta, vláknitá (heterocyt)",
+    "image": "images/096.webp"
+  },
+  {
+    "id": 97,
+    "name": "Batrachospermum",
+    "description": "Rhodophyta, heterotrichální",
+    "image": "images/097.webp"
+  },
+  {
+    "id": 98,
+    "name": "Nostoc",
+    "description": "Cyanophyta, vláknitá (heterocyt)",
+    "image": "images/098.webp"
+  },
+  {
+    "id": 99,
+    "name": "Batrachospermum",
+    "description": "Rhodophyta, heterotrichální",
+    "image": "images/099.webp"
+  },
+  {
+    "id": 100,
+    "name": "Batrachospermum",
+    "description": "Rhodophyta, heterotrichální",
+    "image": "images/100.webp"
+  },
+  {
+    "id": 101,
+    "name": "Cryptomonas",
+    "description": "Cryptophyta, monadoidní",
+    "image": "images/101.webp"
+  },
+  {
+    "id": 102,
+    "name": "Lemanea",
+    "description": "Rhodophyta, pletivná",
+    "image": "images/102.webp"
+  },
+  {
+    "id": 103,
+    "name": "Peridinium",
+    "description": "Dinophyta, monadoidní",
+    "image": "images/103.webp"
+  },
+  {
+    "id": 104,
+    "name": "Peridinium",
+    "description": "Dinophyta, monadoidní",
+    "image": "images/104.webp"
+  },
+  {
+    "id": 105,
+    "name": "Mallomonas",
+    "description": "Chromophyta, šupinaté zlativky (Synurophyceae), monadoidní",
+    "image": "images/105.webp"
+  },
+  {
+    "id": 106,
+    "name": "Ceratium",
+    "description": "Dinophyta, monadoidní",
+    "image": "images/106.webp"
+  },
+  {
+    "id": 107,
+    "name": "Dinobryon",
+    "description": "Chromophyta, zlativky (Chrysophyceae), monadoidní (lorika)",
+    "image": "images/107.webp"
+  },
+  {
+    "id": 108,
+    "name": "Synura",
+    "description": "Chromophyta, šupinaté zlativky (Synurophyceae), monadoidní, koloniální",
+    "image": "images/108.webp"
+  },
+  {
+    "id": 109,
+    "name": "Cyclotella",
+    "description": "Stephanodiscus, Chromophyta, Bacillariophyceae, Centrales, kokální",
+    "image": "images/109.webp"
+  },
+  {
+    "id": 110,
+    "name": "Cyclotella",
+    "description": "Stephanodiscus, Chromophyta, Bacillariophyceae, Centrales, kokální",
+    "image": "images/110.webp"
+  },
+  {
+    "id": 111,
+    "name": "Cymatopleura",
+    "description": "Chromophyta, Bacillariophyceae, Pennales, kokální",
+    "image": "images/111.webp"
+  },
+  {
+    "id": 112,
+    "name": "Melosira",
+    "description": "Chromophyta, Bacillariophyceae, Centrales, kokální (kolonie)",
+    "image": "images/112.webp"
+  },
+  {
+    "id": 113,
+    "name": "Nitzschia",
+    "description": "Chromophyta, Bacillariophyceae, Pennales, kokální",
+    "image": "images/113.webp"
+  },
+  {
+    "id": 114,
+    "name": "Navicula",
+    "description": "Chromophyta, Bacillariophyceae, Pennales, kokální",
+    "image": "images/114.webp"
+  },
+  {
+    "id": 115,
+    "name": "Tribonema",
+    "description": "Chromophyta, Xanthophyceae, vláknitá",
+    "image": "images/115.webp"
+  },
+  {
+    "id": 116,
+    "name": "Asterionella",
+    "description": "Chromophyta, Bacillariophyceae, Pennales, kokální (kolonie)",
+    "image": "images/116.webp"
+  },
+  {
+    "id": 117,
+    "name": "Botrydium",
+    "description": "Chromophyta, Xanthophyceae, sifonální",
+    "image": "images/117.webp"
+  },
+  {
+    "id": 118,
+    "name": "Vaucheria",
+    "description": "Chromophyta, Xanthophyceae, sifonální",
+    "image": "images/118.webp"
+  },
+  {
+    "id": 119,
+    "name": "Ophiocytium",
+    "description": "Chromophyta, Xanthophyceae, kokální",
+    "image": "images/119.webp"
+  }
+]
